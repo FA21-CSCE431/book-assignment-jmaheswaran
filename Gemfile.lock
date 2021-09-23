@@ -222,9 +222,9 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  x86_64-linux
   arm64-darwin-20
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
