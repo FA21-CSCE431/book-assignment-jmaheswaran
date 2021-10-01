@@ -1,0 +1,7 @@
+<p>
+  <strong>Are you sure you want to delete?</strong>
+
+</p>
+<%= form_for(@book, :method => 'delete') do |form| %>
+    <%= form.submit("Delete Book") %>
+<% end %>
